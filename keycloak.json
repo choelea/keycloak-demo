@@ -1,0 +1,7 @@
+{
+  "realm": "instant-quote",
+  "auth-server-url": "http://admin.yuyoucloud.com/auth",
+  "ssl-required": "external",
+  "resource": "test",
+  "public-client": true
+}
